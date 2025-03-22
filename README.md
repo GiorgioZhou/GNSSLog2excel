@@ -1,3 +1,5 @@
+gnss_log_2025_03_22_22_37_27.nmea is an example log file generated from GNSSLogger. It is used for testing.
+
 Parsing log files of scheduled records is not supported at present
 
 Please indicate the source when using this code
